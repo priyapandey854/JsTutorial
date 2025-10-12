@@ -26,7 +26,7 @@ const bigNum= 14578316442374276456980n   // iska datatype undefiend hei
 
 
 //array
-const heroians =["priya", "priti", "sunita", "mahima ", "dadi"]
+const hemyroians =["priya", "priti", "sunita", "mahima ", "dadi"]
 console.log(heroians);
 
 
@@ -43,5 +43,5 @@ let myFunction=function() {             // datatype objectfunction hota hei
     console.log("hello world");   
     
 }
-console.log(myFunction);
+console.log(Function);
 
