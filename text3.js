@@ -44,3 +44,4 @@ let myFunction=function() {             // datatype objectfunction hota hei
     
 }
 console.log(myFunction);
+
