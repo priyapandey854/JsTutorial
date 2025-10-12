@@ -45,3 +45,6 @@ let myFunction=function() {             // datatype objectfunction hota hei
 }
 console.log(Function);
 
+/********* two type of memory******* */
+// 1. Stack (Primitive), 2. Heap(Non- Primitive)
+
