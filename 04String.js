@@ -8,7 +8,7 @@ var name1="pandey"
 console.log(`hello i ame is ${name} and my sir name is ${name1} the value og 50`);
 // ${}  ye use hota hei veriable ingect karne ke liye
 
-gameName= "priya"
+gameName=new String ("priya")
 console.log(gameName.length);
 console.log(gameName.toUpperCase());
 console.log(gameName.indexOf('r'));
