@@ -1,6 +1,6 @@
 /********************* Number********************* */
 
-const balance=new Number(10233)
+const balance = new Number(10233)
 console.log(balance);
 console.log(balance.toLocaleString('en-IN'));
 

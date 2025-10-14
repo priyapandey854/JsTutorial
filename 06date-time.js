@@ -11,7 +11,7 @@ const date2 = new Date("1995-12-17T03:24:00");
 // Expected output: true
 // console.log(date1);
 
-var mydate=new Date()
+var mydate = new Date()
 // console.log(mydate.toString());
 
 // console.log(mydate.toDateString());
@@ -31,25 +31,25 @@ var mydate=new Date()
 // new Date(year, monthIndex, day, hours, minutes, seconds)
 // new Date(year, monthIndex, day, hours, minutes, seconds, milliseconds)
 
-myCratedDate=new Date('02-10-2025')
+myCratedDate = new Date('02-10-2025')
 // console.log(myCratedDate.toLocaleString());
 
 
-let myTimaDate= Date.now()
+let myTimaDate = Date.now()
 // console.log(myTimaDate);
 // console.log(myTimaDate.toString());
 // console.log(Math.floor(myTimaDate/1000));
 
 
 
-let newDate= new Date()
-console.log(newDate.getMonth()+1);
+let newDate = new Date()
+console.log(newDate.getMonth() + 1);
 console.log(newDate.getDate());
 console.log(newDate.getDay());
 
 // `${newDate()}and the time ...`
 
-newDate1= newDate.toLocaleString('defauld',{
+newDate1 = newDate.toLocaleString('defauld', {
     weekday: "long",
 })
 
