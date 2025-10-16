@@ -29,7 +29,7 @@ const bigNum = 14578316442374276456980n   // iska datatype undefiend hei
 const hemyroians = ["priya", "priti", "sunita", "mahima ", "dadi"]
 console.log(heroians);
 
-
+// object {} se define kiya jata hei 
 // object
 var myObj = {
     name: "priya",
