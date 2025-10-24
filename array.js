@@ -7,7 +7,7 @@ const myarr = [1, 2, 4, 3, 5]     // array ka type object hota hei
 
 let myarr2 = Array(1, 2, 3, 6, 3, 8)
 // console.log(myarr2);
-// console.log(typeof myarr2);
+console.log(typeof myarr2);
 
 // array methods
 
@@ -20,7 +20,7 @@ myarr.shift(8)
 
 // console.log(myarr.includes(9));
 // console.log(myarr.indexOf(4));
-// console.log(myarr.indexOf(19));
+console.log(myarr.indexOf(19));
 
 const newarr= myarr.join()   // ye array ko string mei convert kar deta hei ..
 

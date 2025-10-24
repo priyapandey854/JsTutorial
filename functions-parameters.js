@@ -11,8 +11,8 @@ function addTwonumber(number1,number2) {
 // addTwonumber(2,4)   // () ->iske adar hum arrgument dete hei  
 
 function addTwonumber(number1,number2) {
-    const result=number1+number2
-    return result
+    // const result=number1+number2
+    // return result
     // console.log( 'result: ',result);
     // return number1+number2
 
@@ -71,7 +71,6 @@ function createArray(anyarray) {
 }
 // console.log(createArray(valueOfArray));
 console.log(createArray([2000,300,4000]));
-
 
 
 
