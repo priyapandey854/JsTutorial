@@ -23,3 +23,5 @@ if (Object.keys(emptyobj).length===0) {
     
 }
 // false==0, false=='', 0=='', -> true
+
+

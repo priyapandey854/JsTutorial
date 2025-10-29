@@ -73,7 +73,3 @@ function createArray(anyarray) {
 console.log(createArray([2000,300,4000]));
 
 
-
-
-
-

@@ -54,6 +54,7 @@ if (true) {
 // console.log(addone(5));
 
 
+
 // console.log(addtwo(2));   //hosting
 // const addtwo= function (num) {
 //     return num+2
