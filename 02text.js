@@ -1,7 +1,6 @@
 "user strict"; //treat all JS code as newer version
 
 // alert(3+3) // We are using nodejs, not browser
-
 //number => 2 to power 53
 // bigint 
 // String =>""
@@ -25,6 +24,8 @@ let num1= Number(num)
 // "33abe" => NaN
 // " " => NaN
 // true => 1 , false => 0
+// exclamation -> (!) bolte hei ise
+
 
 
 

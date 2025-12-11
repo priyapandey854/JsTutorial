@@ -1,12 +1,12 @@
 // Day 1 *****************
 
 
-// console.log("hello word");
-// console.log("hello word")
-// console.log("hello priya")
-// // console.log("I Love JavaScript")
-// fullname ="priya pandey";
-// console.log(fullname)
+console.log("hello word");
+console.log("hello word")
+console.log("hello priya")
+// console.log("I Love JavaScript")
+fullname ="priya pandey";
+console.log(fullname)
 // age =21;
 // console.log(age)
 // price = 29.99;
@@ -42,10 +42,10 @@ accountCisy = "jaipur"
 let accountstate;  // undefined value
 
 // console.log([accountId, accountEmail, accountPassword, accountCisy]);
-console.table([accountId, accountEmail, accountPassword, accountCisy, accountstate]);
-console.log(typeof accountPassword);
-console.log(typeof console.log);  // function type hei 
-console.log(typeof table);    // object type hei 
+// console.table([accountId, accountEmail, accountPassword, accountCisy, accountstate]);
+// console.log(typeof accountPassword);
+// console.log(typeof console.log);  // function type hei 
+// console.log(typeof table);    // object type hei 
 
 
 

@@ -5,27 +5,27 @@
 
 (function chai(params) {
     console.log('hello word');
-    
+
 })
-();
+    ();
 (
-    ()=>{
+    () => {
         console.log('DB Connected');
-        
+
     }
 )();
 // first code end karne ke liye ; ka use karte hei 
 (
-    function code(name1,name2){
+    function code(name1, name2) {
         console.log(`DB Connected two,${name1},${name2}`);
-        
-    }
-)('priya','priti');
 
-( 
-    (name)=>{
+    }
+)('priya', 'priti');
+
+(
+    (name) => {
         console.log(`this is my ${name}`);
-        
+
     }
 )('bhavesh')
 
